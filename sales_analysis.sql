@@ -44,9 +44,10 @@ from sales
 group by product_name;
 
 -- Month-over-month sales growth
-
+bbjb
 -- Identify low-performing regions
 
 -- Customer segmentation (high / medium / low value)
+
 
 -- Detect seasonal sales patterns
